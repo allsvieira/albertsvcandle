@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Candle Burning</string>
+    <string name="label_material">Material</string>
+    <string name="label_length">Length (height)</string>
+    <string name="label_diameter">Diameter</string>
+    <string name="label_duration">Aprox. Duration</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+
+    <string name="paraffin">Paraffin</string>
+    <string name="stearin">Stearin</string>
+    <string name="beewax">Beewax</string>
+    <string name="infoText">It's burning</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KerzenRechner</string>
+    <string name="beewax">Bienenwachs</string>
+    <string name="label_diameter">Durchmesser</string>
+    <string name="label_duration">Dauer</string>
+    <string name="calculate">Berechnen</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="paraffin">Paraffin</string>
+    <string name="stearin">Stearin</string>
+    <string name="label_material">Material</string>
+    <string name="label_length">Länge (Höhe)</string>
+    <string name="infoText">Got es brennt!</string>
+</resources>
